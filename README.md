@@ -1,2 +1,2 @@
-# VOLO_LIFE_PROJECT
+# VOLO_LIVE_PROJECT
 Here should be VOLO Team Life project
